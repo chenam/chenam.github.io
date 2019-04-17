@@ -10,8 +10,9 @@ tags:
 ---
 
 - 移动端访问用 vue-cli 起的项目       
-用vue-cli起了项目以后，扫ip地址，发现访问不到
-发现只要改这两个地方就可以了
+用vue-cli起了项目以后，扫ip地址，访问不到
+
+只要改这两个地方就可以了
 1. 把config/index.js文件中默认的localhost 改成 0.0.0.0
 2. 修改package.json中script下dev的值，在后面加入–host 0.0.0.0
 
