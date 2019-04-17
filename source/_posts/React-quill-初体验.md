@@ -2,9 +2,10 @@
 title: React-quill-初体验
 date: 2019-01-23 10:54:14
 categories: 
-  - web前端
+    - web前端
 tags:
     - javascript
+    - 小功能
 ---
 ### 用的是react-quill , 颜值如图
 
