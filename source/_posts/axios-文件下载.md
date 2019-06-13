@@ -9,7 +9,7 @@ tags:
 
 上代码
 
-```
+``` javascript
 downloadFile(url,params, callback){ // 下载文件
         const newUrl = params ? this.build(url, params) : url
         // let requestData = Object.assign({}, data, {

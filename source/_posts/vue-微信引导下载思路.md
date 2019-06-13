@@ -20,7 +20,7 @@ tags:
 ![图片2](../images/wxfx-2.png)
 
 - 代码
-```
+``` javascript
 <template>
   <div id="app">
     <router-view/>
